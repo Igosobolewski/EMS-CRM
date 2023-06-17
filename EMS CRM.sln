@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EMS CRM", "EMS CRM\EMS CRM.csproj", "{912D6EB0-AD5C-43CB-9816-3472720093A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{912D6EB0-AD5C-43CB-9816-3472720093A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{912D6EB0-AD5C-43CB-9816-3472720093A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{912D6EB0-AD5C-43CB-9816-3472720093A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{912D6EB0-AD5C-43CB-9816-3472720093A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {690EA90E-7320-47ED-884A-B0EA3C42733D}
+	EndGlobalSection
+EndGlobal
